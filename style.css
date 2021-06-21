@@ -4,7 +4,7 @@
 }
 
 body{
-    overflow-x: hidden;
+    
     
 }
 a{
@@ -96,7 +96,7 @@ p{
 .cars{
     
     background-color: #f8f8f8;
-    width: 350px;
+    width: 320px;
     height: 350px;
     margin-bottom: 20px;
 }
